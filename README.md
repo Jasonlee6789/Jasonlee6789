@@ -1,6 +1,6 @@
 ### Hi there 👋
 -  Stay Hungry. Stay Foolish. Today is the youngest day of my life, I hope earnestly to start on.
-- 🌱 I specialize in React and Next.js with Typescript  and am currently learning NestJS  aspiring to be a Full Stack Master from a frontend developer.
+- 🌱 I specialize in React and Next.js with Typescript  and am currently learning JAVA  aspiring to be a Full Stack Master from a frontend developer.
 
 - Also remember to visit some interesting demos: 
 - my Cafe website at: https://cafe-8gp4-dr7o4zfg7-lovejing.vercel.app/
