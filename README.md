@@ -3,7 +3,7 @@
 - 🌱 I specialize in React and Angular with Typescript  and am currently learning JAVA,Next and Nest aspiring to be a Full Stack Master from a frontend developer.
 
 - Also remember to visit some interesting demos:
-- My current job angular+java open-source project at: (https://github.com/girasolenergy/openems-fork)
+- My current job angular+java bsed on open-source project at: ((https://github.com/OpenEMS/openems))
 - Practice Angular demo at: https://angular-demo-virid.vercel.app/dashboard
 - Two react search demoes app at: https://search-github-repositories.vercel.app/ https://vercel.com/lovejing/lijing-movie-react
 - next.js demo:https://strata-frontend-exercise-zeta.vercel.app/leaderboard).
